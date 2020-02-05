@@ -2,11 +2,7 @@
   "leads": [
     { "id": 1, "firstName": "Ann", "lastName": "Kim", "email": "ann@gmail.com"}
   ],
-  
-  "profile": {
-    "name": "typicode",
-    "token_type": "bearer"
-  },
+ 
   "auth": {
     "access_token": "437174dd-8f78-45f0-a0c6-4fb074471c67:sj",
     "token_type": "bearer",
